@@ -13,7 +13,24 @@
 ## LOG
 
 ---
+### 2026-03-19 -- Garden systems locked
 
+[DECISION] SCROG + Shade Frame System Finalized
+- Per-plant modular PVC frames selected
+- Each plant receives individual structure
+- Integrated SCROG + 30% shade cloth heat mitigation
+- Freestanding design -- brick patio, no anchoring
+- No shared multi-plant frame system
+- Optimized for airflow, modularity, and tree-style growth
+
+[DECISION] Container-Based Insectary System Adopted
+- Distributed container clusters -- no full garden strip
+- Core plants: yarrow, calendula, dill, cilantro, alyssum, chamomile, buckwheat
+- Target beneficials: parasitoid wasps, hoverflies, pollinators
+- Placement: greenhouse zone, vegetable zone, cannabis perimeter
+- Objective: biological pest suppression (budworms, aphids) + pollination support
+
+---
 ### 2026-03-19 — Project initiated
 **[DECISION]** Six-cultivar lineup locked for 2026 season:
 1. Gorilla Glue #4 — verified clone — 25-gal fabric pot
