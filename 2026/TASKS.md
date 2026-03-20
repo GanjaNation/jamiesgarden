@@ -50,3 +50,21 @@
 - [ ] Content review — all companion plant pages (22)
 - [ ] Audit orphan files: about.html, grow.html, garden.html, journal.html
 
+- [ ] ## SCROG + Shade Frames
+
+- [ ] Confirm 1" PVC vs 3/4" final decision
+- [ ] Purchase PVC pipes -- confirm quantity based on per-plant frame dimensions x 6
+- [ ] Purchase connectors (3-way corners + T fittings)
+- [ ] Purchase 30% shade cloth
+- [ ] Purchase trellis netting or line
+- [ ] Acquire zip ties, screws, clips
+- [ ] Decide anchoring method (rebar vs bricks)
+
+## Insectary System
+
+- [ ] Purchase sweet alyssum (3 plants)
+- [ ] Purchase chamomile (1-2 plants)
+- [ ] Purchase yarrow, calendula, dill, cilantro, buckwheat
+- [ ] Allocate containers (1-3 gallon range)
+- [ ] Position insectary clusters -- greenhouse zone, vegetable zone, cannabis perimeter
+
